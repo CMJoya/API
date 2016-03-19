@@ -15,4 +15,4 @@ post/oath/token
 
 ### Model
 
-Posts title:string body:string
+Posts title:string body:string post_date:string
