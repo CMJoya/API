@@ -1,7 +1,7 @@
 Secure API
 ==========
 
-/Users/MJoya/Desktop/tiy/Week-7-Lab/erd.png
+![img](erd.png)
 
 
 
