@@ -1,8 +1,8 @@
 Secure API
 ==========
 
-!(img)(erd.png)
-![img](http://i.imgur.com/vDxS3va.png)
+/Users/MJoya/Desktop/tiy/Week-7-Lab/erd.png
+
 
 
 GET /api/posts to return all posts
